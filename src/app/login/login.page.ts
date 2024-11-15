@@ -33,9 +33,7 @@ export class LoginPage implements OnInit {
     return this.credentials.get('password');
   }
 
-  ngOnInit() {
-    
-  }
+  ngOnInit() {}
 
   async register() {
     const loading = await this.loadingController.create();
