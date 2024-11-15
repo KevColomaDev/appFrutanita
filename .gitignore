@@ -71,3 +71,5 @@ Thumbs.db
 
 # Enviroment file
 ./src/environments/environments.ts
+./android
+/android
